@@ -1,0 +1,9 @@
+ips ={192.168..1,10.0.0.11,172.16.0.1,192.168.1.1,10.0.0.1
+#indexingi
+print first ip,ips 0
+#slicing
+print first 2ips
+}IPs (e.g., ["192.168.1.1", "10.0.0.1", "192.168.1.1"]).
+Returns unique, sorted IPs.
+ output: ["10.0.0.1", "192.168.1.1"]
+
